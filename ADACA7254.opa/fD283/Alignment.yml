@@ -1,0 +1,18 @@
+segment_sources:
+  IEABEAC35:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5E5774AA:
+    type: origin_type
+    relation: translation
+    language: zh
+  I695A9A72:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  3535c83bc4eb4aa9b94505c0edbdbb1b:
+    IEABEAC35: 066619521dc441a389aa8cea2c6c75bd
+    I5E5774AA: 68aecf392d924503b458f4fd5f6ecf94
+    I695A9A72: ebe56afe18d046d2aae0fb3478e92e42
